@@ -1,3 +1,11 @@
+My First time using Redux
+
+Essentially created a website which displays posts. By using a form, you can add a new post nad have it displayed with the list of posts
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
