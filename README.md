@@ -4,8 +4,6 @@ Essentially created a website which displays posts. By using a form, you can add
 
 
 
-
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
